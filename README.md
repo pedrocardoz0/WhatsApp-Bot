@@ -1,8 +1,7 @@
  <img src="https://i.pinimg.com/564x/f3/53/5d/f3535dc3f95e71506f7c80755610176c.jpg" align="right" height="100" />
 
 # WhatsApp-Bot
-Criação de bot para automação de envios de mensagens no wpp
-I created this bot to automate messages on wpp
+Criação de bot para automação de envios de mensagens no wpp<br>I created this bot to automate messages on wpp
 
 
 ## Table of Ideas
